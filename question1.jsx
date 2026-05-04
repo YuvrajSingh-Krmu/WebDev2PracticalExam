@@ -1,0 +1,1 @@
+// create an iput field , where a user enter their name , display the entered name i real time below the input field as the usere type
